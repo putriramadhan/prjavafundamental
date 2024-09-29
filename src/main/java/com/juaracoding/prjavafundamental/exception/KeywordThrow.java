@@ -9,6 +9,8 @@ Created on 29/09/2024 17:45
 Version 1.0
 */
 
+import com.juaracoding.prjavafundamental.util.GlobalFunction;
+
 import java.io.IOException;
 import java.util.Scanner;
 
